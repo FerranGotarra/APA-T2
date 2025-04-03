@@ -64,8 +64,6 @@ comprobarse las siguientes condiciones:
 
 ### Entrega
 
-
-
 #### Ejecución de los tests unitarios
 
 Inserte a continuación una captura de pantalla que muestre el resultado de ejecutar el fichero `primos.py` con la opción
